@@ -1,0 +1,38 @@
+body{
+    background-color: white ;
+    margin: 0;
+}
+.box_utama{
+    background-color: red;
+    width: 100%;
+    height: 90px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.logo{
+    text-decoration: none;
+    width: 50px;
+}
+.search{
+    color: grey;
+    text-decoration: none;
+    border-radius: 15px;
+    border: none;
+    height: 25px;
+    padding: 10px;
+    font-weight: bold;
+    
+}
+.home{
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
+.contact{
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
