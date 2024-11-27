@@ -1,28 +1,32 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="id">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="cik.css">
-    <title>projek</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Website dengan Background Video</title>
+  <link rel="stylesheet" href="cik.css">
 </head>
-    <body>
-        <div class="box_utama">
-            <div class="box_atas">
-                <img src="" class="logo"></img>
-                <input class="search" type="Search" placeholder="Search">
-                <a href="" class="home">Home</a>
-                <a href="" class="contact">Contact</a>
-            </div>
-            
-            <div class="box_tengah">
-                <a class="box_gede"></a>
-                <a class="box_sedeng"></a>
-            </div>
-            <div class="box_akhir">
-                <a class="box_panjang"></a>
-                <a class="box_panjang"></a>
-            </div>
-        </div>
-    </body>
+<body>
+  <div class="video-background">
+    <video autoplay muted loop>
+      <source src="background.mp4" type="video/mp4">
+    </video>
+  </div>
+
+  <div class="content">
+    <header class="header">
+      <nav class="nav">
+        <a href="#">Home</a>
+        <a href="#">About</a>
+        <a href="#">Contact us</a>
+      </nav>
+    </header>
+    <main class="main">
+      <div class="image-box">
+        <p><img src="https://png.pngtree.com/png-clipart/20221228/original/pngtree-premium-vector-l-draw-meatball-illustration-cartoon-png-image_8818595.png" alt="bakso" width="200px"></p>
+      </div>
+      <button class="buy-button">Beli Sekarang</button>
+    </main>
+  </div>
+</body>
 </html>
