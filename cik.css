@@ -83,9 +83,10 @@ body {
   margin-bottom: 20px;
 }
 p{
-    display: flex;
+  display: flex;
   justify-content: center;
   align-items: center;
+  color:white;
 }
 
 .buy-button {
