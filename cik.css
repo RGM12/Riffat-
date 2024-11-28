@@ -82,6 +82,11 @@ body {
   align-items: center;
   margin-bottom: 20px;
 }
+p{
+    display: flex;
+  justify-content: center;
+  align-items: center;
+}
 
 .buy-button {
   padding: 15px 30px;
