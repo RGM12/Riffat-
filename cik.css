@@ -92,14 +92,18 @@ p{
 
 .buy-button {
   padding: 15px 30px;
-  background-color: red;
   color: white;
   border: none;
   border-radius: 5px;
   font-size: 16px;
   cursor: pointer;
+  box-shadow: 8px 10px 0 #0f0f25;
+  border: 2px solid #2d2d56;
+  border-radius: 20px;
+  background-color: transparent;
+  transition: background 300ms ease;
 }
 
 .buy-button:hover {
-  background-color: maroon;
+  background-color: #b30000;
 }
