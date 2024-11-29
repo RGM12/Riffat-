@@ -22,7 +22,16 @@
       </nav>
     </header>
     <main class="main">
-      <div class="Welcome"><b>Selamat Datang</b></div>
+      <div class="curved-text-container">
+    <svg width="500" height="200">
+        <path id="curve" d="M50,150 C150,50 350,50 450,150" fill="transparent" />
+        <text fill="#ffffff" font-size="24" font-family="Arial" text-anchor="middle">
+            <textPath href="#curve" startOffset="50%">
+                Selamat Datang
+            </textPath>
+        </text>
+    </svg>
+</div>
       <div class="image-box">
         <p><img src="bakso.png" alt="bakso" width="200px"></p>
       </div>
