@@ -133,7 +133,9 @@
 .content .link-bio .link-buttons ul li:nth-child(4):hover{
     background: greenyellow;
 }
-
+.Copyright{
+    color:white:
+}
 
 @media screen and (max-width: 720px) {
     .content .link-bio{
