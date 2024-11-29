@@ -73,18 +73,9 @@ body {
   margin-top: 20px;
 }
 
-.curved-text-container {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    margin-top: 25px; 
-}
-svg {
-    width: 100%;
-    max-width: 500px;
-}
-path {
-    stroke: none; 
+.Welcome{
+  color: white;
+  font-size: larger;
 }
 
 .image-box {
