@@ -73,9 +73,18 @@ body {
   margin-top: 20px;
 }
 
-.Welcome{
-  color: white;
-  font-size: larger;
+.curved-text-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px; 
+}
+svg {
+    width: 100%;
+    max-width: 500px;
+}
+path {
+    stroke: none; 
 }
 
 .image-box {
