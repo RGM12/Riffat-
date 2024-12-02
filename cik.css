@@ -76,6 +76,7 @@ body {
 .Welcome{
   color: white;
   font-size: x-large;
+  font-family: monaco;
 }
 
 .image-box {
