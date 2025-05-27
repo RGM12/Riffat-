@@ -53,6 +53,7 @@ body {
   color: white;
   font-size: 16px;
   font-weight: bold;
+  transition: color 0.3s;
 }
 
 
