@@ -60,10 +60,13 @@ body {
   text-decoration: none;
   color: white;
   font-size: 16px;
+  font-weight: bold;
+  transition: color 0.3s;
 }
 
 .nav a:hover {
-  text-decoration: underline;
+  color: red;
+  text-decoration: none;
 }
 
 .main {
