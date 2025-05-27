@@ -99,7 +99,7 @@ body {
 
 
 #box1:hover {
-    width: 150px;
+    width: 165px;
     background-color: #000000;
     justify-content: flex-start;
     padding-left: 20px;
@@ -107,7 +107,7 @@ body {
 }
 
 #box2:hover {
-    width: 150px;
+    width: 165px;
     background-color: #ff00bf;
     justify-content: flex-start;
     padding-left: 20px;
@@ -115,7 +115,7 @@ body {
 }
 
 #box3:hover{
-    width: 150px;
+    width: 165px;
     background-color: rgb(255, 146, 83);
     justify-content: flex-start;
     padding-left: 20px;
@@ -123,7 +123,7 @@ body {
 }
 
 #box4:hover{
-    width: 150px;
+    width: 165px;
     background-color: rgb(0, 132, 255);
     justify-content: flex-start;
     padding-left: 20px;
@@ -131,7 +131,7 @@ body {
 }
 
 #box5:hover{
-    width: 150px;
+    width: 165px;
     background-color: rgb(255, 0, 0);
     justify-content: flex-start;
     padding-left: 20px;
@@ -139,7 +139,7 @@ body {
 }
 
 #box6:hover{
-    width: 150px;
+    width: 165px;
     background-color: rgb(0, 255, 34);
     justify-content: flex-start;
     padding-left: 20px;
